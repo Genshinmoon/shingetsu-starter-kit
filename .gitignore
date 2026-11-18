@@ -1,0 +1,11 @@
+# 心月の記憶と日記は、使い手の手元だけに / Personal memories stay local
+local_memory.db
+local_memory.db-journal
+shingetsu_diary_*.md
+
+# setup.py が作る軽量版の一時 Modelfile / Temporary lite Modelfiles
+.Modelfile*.lite
+
+# Python
+__pycache__/
+*.pyc
